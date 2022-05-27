@@ -6,3 +6,5 @@ def selamatDatang(nama, waktu):
 selamatDatang('hitam', 'siang')
 selamatDatang('putih', 'sore')
 selamatDatang('ujang', 'malam')
+
+selamatDatang(waktu='siang', nama='udin')
